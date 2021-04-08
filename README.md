@@ -15,7 +15,7 @@ Installation Manual
 *************************************************************************
 1.Extract DataPipeline.zip  
 2.In talend openstudio startup windows choose "Import existing project"  
-3.Click brosse for directory and navigate system to our extrtact folder of DataPipeline.zip  
+3.Click browse and search for directory and navigate system to our extrtact folder of DataPipeline.zip  
 4.After finish loading it should show start page   
 5.Instart page select jobs name "ETLjob 0.1"  
 6.And then the jobs view will be show and now youcan config the input for tExcelInput component.  
