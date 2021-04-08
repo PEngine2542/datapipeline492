@@ -19,3 +19,7 @@ Installation Manual
 4.After finish loading it should show start page   
 5.Instart page select jobs name "ETLjob 0.1"  
 6.And then the jobs view will be show and now youcan config the input for tExcelInput component.  
+*************************************************************************
+*************************************************************************
+Configuration Manual
+*************************************************************************
